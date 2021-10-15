@@ -11,7 +11,7 @@
                 "appointment_date": "2021-01-13T08:45:00-08:00",
                 "availability": 1
             }
-         ],
+         ]
     },
     {
         "location_id":  2,
@@ -25,7 +25,6 @@
                          "availability": 1
                      }
                 ]
-         },
+         }
     ]
-}
 }
