@@ -1,27 +1,131 @@
 {
   "slots": [
     {
-        "location_id":  1,
+        "location_id":  195508,
         "slots": [
             {
-                "appointment_date": "2021-01-13T08:30:00-08:00",
-                "availability": 1
+                "appointment_date": "2021-10-15T09:15:00-04:00",
+                "availability": 2
  	      },
             {
-                "appointment_date": "2021-01-13T08:45:00-08:00",
-                "availability": 1
+                "appointment_date": "2021-10-15T11:15:00-04:00",
+                "availability": 2
             }
          ]
     },
     {
-        "location_id":  2,
+        "location_id":  56164,
         "slots": [
                      {
-           	             "appointment_date": "2021-01-13T08:30:00-08:00",
+           	             "appointment_date": "2021-10-16T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-01-13T08:45:00-08:00",
+                         "appointment_date": "2021-10-16T08:45:00-04:00",
+                         "availability": 2
+                     }
+                ]
+         },
+    {
+        "location_id":  4415,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 2
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 3
+                     }
+                ]
+         },
+    {
+        "location_id":  151113,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  9156,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  9157,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  61418,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  57061,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  16820,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
+                         "availability": 1
+                     }
+                ]
+         },
+    {
+        "location_id":  9155,
+        "slots": [
+                     {
+           	             "appointment_date": "2021-10-15T08:30:00-04:00",
+                         "availability": 1
+                     },
+       	         {
+                         "appointment_date": "2021-10-15T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
