@@ -1,7 +1,7 @@
 {
   "slots": [
     {
-        "location_id":  <location_id>,
+        "location_id":  1,
         "slots": [
             {
                 "appointment_date": "2021-01-13T08:30:00-08:00",
@@ -14,7 +14,7 @@
          ],
     },
     {
-        "location_id":  <location_id>,
+        "location_id":  2,
         "slots": [
                      {
            	             "appointment_date": "2021-01-13T08:30:00-08:00",
