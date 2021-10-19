@@ -4,11 +4,11 @@
         "location_id":  195508,
         "slots": [
             {
-                "appointment_date": "2021-10-18T09:15:00-04:00",
+                "appointment_date": "2021-10-19T09:15:00-04:00",
                 "availability": 2
  	      },
             {
-                "appointment_date": "2021-10-18T11:15:00-04:00",
+                "appointment_date": "2021-10-19T11:15:00-04:00",
                 "availability": 2
             }
          ]
@@ -17,11 +17,11 @@
         "location_id":  56164,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-19T08:30:00-04:00",
+           	             "appointment_date": "2021-10-20T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-19T08:45:00-04:00",
+                         "appointment_date": "2021-10-20T08:45:00-04:00",
                          "availability": 2
                      }
                 ]
@@ -30,11 +30,11 @@
         "location_id":  4415,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-19T08:30:00-04:00",
+           	             "appointment_date": "2021-10-21T08:30:00-04:00",
                          "availability": 2
                      },
        	         {
-                         "appointment_date": "2021-10-19T08:45:00-04:00",
+                         "appointment_date": "2021-10-21T08:45:00-04:00",
                          "availability": 3
                      }
                 ]
@@ -43,11 +43,11 @@
         "location_id":  151113,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -56,11 +56,11 @@
         "location_id":  9156,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -69,11 +69,11 @@
         "location_id":  9157,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -82,11 +82,11 @@
         "location_id":  61418,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -95,11 +95,11 @@
         "location_id":  57061,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -108,11 +108,11 @@
         "location_id":  16820,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
@@ -121,11 +121,11 @@
         "location_id":  9155,
         "slots": [
                      {
-           	             "appointment_date": "2021-10-18T08:30:00-04:00",
+           	             "appointment_date": "2021-10-19T08:30:00-04:00",
                          "availability": 1
                      },
        	         {
-                         "appointment_date": "2021-10-18T08:45:00-04:00",
+                         "appointment_date": "2021-10-19T08:45:00-04:00",
                          "availability": 1
                      }
                 ]
